@@ -1,0 +1,2 @@
+# DMDW-LAB-02
+ASSIGNMENT2numpy.ipynb
